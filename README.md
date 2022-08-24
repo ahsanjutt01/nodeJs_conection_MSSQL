@@ -4,7 +4,7 @@ Connect MSSQL to nodejs + express querying.
 
 ## Installation
 
-Use the package manager [npm](https://www.npmjs.com/) to install express.
+Use the package manager [npm](https://www.npmjs.com/) to install.
 
 ```bash
 
