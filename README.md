@@ -1,6 +1,6 @@
 # nodeJs_conection_MSSQL
 
-Connect MSSQL to nodejs + express querying.
+Connect MSSQL to nodejs + express + query.
 
 ## Installation
 
